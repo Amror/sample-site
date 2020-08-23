@@ -168,11 +168,11 @@ p.info {
 
 img.side {
     float: right;
-    width: 550px;
+    width: 650px;
     height: 450px;
     position: relative;
-    left: 140px;
-    top:50px;
+    left: 160px;
+    top: 30px;
     border: black 1px solid;
 }
 
